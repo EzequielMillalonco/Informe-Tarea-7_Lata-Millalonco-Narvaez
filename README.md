@@ -145,7 +145,7 @@
 	
 	14–3      Transformadores elevadores y reductores 
 	
-14–4      Carga del devanado secundario
+	14–4      Carga del devanado secundario
 	
 ![1](https://user-images.githubusercontent.com/93834732/153528731-90f6ac2c-ae37-42ce-b8df-9a7cd46f80be.GIF)
 
@@ -171,13 +171,13 @@
 	
 ![15](https://user-images.githubusercontent.com/93834732/153533698-92b5ef8c-a18b-4b4b-b074-03e2276b0219.GIF)
 
-23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.**
+**23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.**
 	
 ![16](https://user-images.githubusercontent.com/93834732/153533844-2449ac00-cc13-4a21-ab00-36d96530d0a2.GIF)
 
-	Podemos concluir que el coeficiente es de 0.98
+Podemos concluir que el coeficiente es de 0.98
 	
-	25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 		kV?
+**25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 kV?**
 	
 ![17](https://user-images.githubusercontent.com/93834732/153534030-e08ab4b3-106f-45cf-8d8d-039ef15db275.GIF)
 
@@ -195,7 +195,7 @@
 
 	14–9      Localización de fallas
 	
-33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+**33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?**
 
 En el caso de que esto sucediera el transformador seria de utilidad puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema.
 
