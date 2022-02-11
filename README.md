@@ -44,24 +44,7 @@
 	
 ### CAPÍTULO 14: TRANSFORMADORES
 
-	14–1      Inductancia mutua 
-	
-	14–2      El transformador básico
-	
-	14–3      Transformadores elevadores y reductores 
-	
-	14–4      Carga del devanado secundario
-	
-	14–5      Carga reflejada
-	
-	14–6      Igualación de impedancia
-	
-	14–7      Características de un transformador no ideal (transformador real)
-	
-	14–8      Transformadores con tomas y devanados múltiples
-	
-	14–9      Localización de fallas
-
+![Diagrama en blanco (14)](https://user-images.githubusercontent.com/93834732/153528478-6525c566-0ea7-45cb-bd74-d8b0a3bc07d9.png)
 
 
 
