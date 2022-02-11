@@ -127,8 +127,7 @@
 
 **21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:**
 
-![image](https://user-images.githubusercontent.com/93396250/153550864-7a563774-ef29-470a-a0b3-5daac7c3a1ef.png)
-
+![image](https://user-images.githubusercontent.com/93396250/153551116-b00e2700-4a9f-4c36-8a05-772ef7af0de6.png)
 
 **23. Repita el problema 21 para los siguientes instantes:**
 
