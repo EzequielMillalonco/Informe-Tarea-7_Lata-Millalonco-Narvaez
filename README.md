@@ -189,9 +189,9 @@ n=(30 V)/(120 V)
 
 n=1/4=0.25 (4:1)
 
-**11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+**11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?**
 
-Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:**
+Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación
 
 V_sec=n*V_pri
 
