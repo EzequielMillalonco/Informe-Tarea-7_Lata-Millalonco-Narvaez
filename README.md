@@ -18,16 +18,29 @@
 
 	13–1      El inductor básico
 	
+![Untitled (30)](https://user-images.githubusercontent.com/93396250/153534732-65506970-ad1e-4bc2-bce3-fcabaf3c9ea7.jpg)
+
 	13–2      Tipos de inductores
 	
-	13–3      Inductores en serie y en paralelo 
+![Untitled (31)](https://user-images.githubusercontent.com/93396250/153534739-7cbf3d7f-a2a8-4028-9ac1-11c5153fc408.jpg)
 	
+
+	13–3      Inductores en serie y en paralelo 
+
+![Untitled (32)](https://user-images.githubusercontent.com/93396250/153534743-48ad80fc-bdd7-4afe-8853-a7d3f5d91e45.jpg)
+
 	13–4      Inductores en circuitos de CD 
 	
-	13–5      Inductores en circuitos de CA 	
+![Untitled (33)](https://user-images.githubusercontent.com/93396250/153534750-3eaa8a75-4e07-499a-a855-742d103cdd7c.jpg)
+
+	13–5      Inductores en circuitos de CA 
+	
+![Untitled (34)](https://user-images.githubusercontent.com/93396250/153534763-2497a8b3-7afd-4f36-ad56-c89b5e110ff3.jpg)
 
 	13–6      Aplicaciones de los inductores
 	
+![Untitled (35)](https://user-images.githubusercontent.com/93396250/153534774-44d3b142-ec67-4300-9388-9e2ba6bf8d24.jpg)
+
 	
 ### CAPÍTULO 14: TRANSFORMADORES
 
