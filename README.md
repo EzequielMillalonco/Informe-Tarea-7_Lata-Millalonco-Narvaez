@@ -73,39 +73,82 @@
 
 **1. Convierta los siguientes valores en milihenries:**
 
+![image](https://user-images.githubusercontent.com/93396250/153550569-70b2a863-8f2e-4154-88a8-e04e5d3e8697.png)
+
+
 **3. ¿Cuál es el voltaje en una bobina cuando di/dt = 10 mA/μs y L = 5 μH?**
+
+![image](https://user-images.githubusercontent.com/93396250/153550590-07c8590a-9859-4ab6-81b4-72432997a4e5.png)
+
 
 **5. La corriente a través de una bobina de 100 mH cambia a razón de 200 mA/s. ¿Cuánto voltaje se induce en la bobina?**
 
+![image](https://user-images.githubusercontent.com/93396250/153550622-8a045675-e5bb-4e17-9978-186c8023c350.png)
+
+
 **7. ¿Qué cantidad de energía se guarda en un inductor de 4.7 mH cuando la corriente es de 20 mA?**
 
+![image](https://user-images.githubusercontent.com/93396250/153550635-6d1d0343-e6b6-4f5a-bb9f-e29cb4bf7520.png)
+
+
 **9. Compare la inductancia de dos inductores idénticos excepto que el inductor 2 está enrollado sobre un núcleo de hierro (permeabilidad relativa  150) y el inductor 1 está enrollado sobre un núcleo de acero al bajo carbono (permeabilidad relativa  200).**
+
+![image](https://user-images.githubusercontent.com/93396250/153550704-fab7738e-8872-4cb9-a8c0-4c8c29f12c66.png)
 
 	
 	13–3      Inductores en serie y en paralelo 
 
 **11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total? **
 
+![image](https://user-images.githubusercontent.com/93396250/153550723-079329c0-cb5f-4322-a488-efb2b9cbf795.png)
+
+
 **13. Determine la inductancia total en la figura 13-44.**
+
+![image](https://user-images.githubusercontent.com/93396250/153550744-90b0548b-1e94-48a7-85f3-961e14089e40.png)
+
 
 **15. Determine la inductancia total en paralelo para las siguientes bobinas dispuestas en paralelo: 75 μH, 50 μH, 25 μH, y 15 μH.**
 
+![image](https://user-images.githubusercontent.com/93396250/153550759-722a2b2c-a8ad-4b31-a8d0-2795fa1251d2.png)
+
+
 **17. Determine la inductancia total de cada circuito mostrado en la figura 13-46.**
+
+![image](https://user-images.githubusercontent.com/93396250/153550795-be3db261-0650-4dad-b90b-4c0e28adac6d.png)
+
 
 	13–4      Inductores en circuitos de CD 
 
 ** 19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
 
+![image](https://user-images.githubusercontent.com/93396250/153550837-e8dd335f-0069-4def-9877-5469c9545d13.png)
+
+
 **21. En el circuito de la figura 13-48, al inicio no hay corriente. Determine el voltaje en el inductor en los siguientes instantes tras de que se cierra el interruptor:**
+
+![image](https://user-images.githubusercontent.com/93396250/153550864-7a563774-ef29-470a-a0b3-5daac7c3a1ef.png)
 
 
 **23. Repita el problema 21 para los siguientes instantes:**
 
+![image](https://user-images.githubusercontent.com/93396250/153550907-ada233c9-dade-4b82-a9c9-4698a3384291.png)
+
 **25. En la figura 13-48, ¿en qué momento luego de que se cierra el interruptor el voltaje llega a 5 V?**
+
+![image](https://user-images.githubusercontent.com/93396250/153550943-23a0bd65-a1d1-421e-a6e6-105245301df6.png)
+
 
 **27. Determine la constante de tiempo para el circuito de la figura 13-50.**
 
+![image](https://user-images.githubusercontent.com/93396250/153550979-62a869b2-8cb2-478b-8c67-a22ad0803d56.png)
+
+
 **29. Para el circuito de la figura 13-50, suponga que el interruptor estuvo cerrado por más de 5T  y se abre. ¿Cuál es la corriente en el inductor 1.0 μs después de que se abre el interruptor?**
+
+![image](https://user-images.githubusercontent.com/93396250/153551014-8cf4a7bc-be20-42b7-84d5-323074128d86.png)
+
+![image](https://user-images.githubusercontent.com/93396250/153551060-b2650bb9-3b19-4a27-8188-cf1c1c04aaac.png)
 
 	13–5      Inductores en circuitos de CA 	
 
