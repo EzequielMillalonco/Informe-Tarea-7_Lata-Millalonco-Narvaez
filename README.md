@@ -2,15 +2,15 @@
 ## 1.	OBJETIVOS
 
 	1.1	GENERAL: 
-
+Determinar y localizar fallas en un tipo de fuente de potencia de cd que utiliza un transformador para acoplar el voltaje de ca tomado de una toma de corriente eléctrica estándar.
 
 	1.2	ESPECÍFICOS:
 
-**a.**	
+**a.**	Explicar la inductancia mutua
 
-**b.**	
+**b.**	Describir cómo se construye un transformador y cómo funciona, así como s transformadores incrementan y disminuyen el voltaje
 
-**c.**	
+**c.**	Analizar el efecto de una carga resistiva a través del devanado secundario
 
 ## 2.	MARCO TEÓRICO (RESUMEN)
 
@@ -141,9 +141,65 @@
 
 	14–1      Inductancia mutua 
 	
+	¿Cuál es la inductancia mutua cuando k=0.75, L1=1 µH, y L2= 4 µH?
+
+Como sabemos son 3 los factores que intervienen en la inductancia mutua, siendo su fórmula:
+
+L_M=k√(L1L2)
+
+Entonces reemplazamos en la fórmula:
+
+L_M=0.75√((110^(-6))H*(1*10^(-6) )H)
+
+L_M=0.75*(2*10^(-6) )H
+
+L_M=1.5*10^(-6) H
+
+L_M=1.5 µH
+	
 	14–2      El transformador básico
 	
+	¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+
+Como sabemos la relación de vueltas (n) se define como la relación del número de vueltas que hay en el devanado secundario (Nsec) al número de vueltas presentes en el devanado primario (Npri):
+
+n=N_sec/N_pri
+
+
+	
 	14–3      Transformadores elevadores y reductores 
+	
+	El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+
+Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:
+
+V_sec=n*V_pri
+
+Entonces reemplazamos: V_sec=5*120 V
+
+V_sec=600 V
+
+Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+
+V_sec=n*V_pri
+
+30 V=n*120 V
+
+n=(30 V)/(120 V)
+
+n=1/4=0.25 (4:1)
+
+¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+
+Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:
+
+V_sec=n*V_pri
+
+6 V=0.1*V_pri
+
+V_pri=(6 V)/0.1=60 V
+
+
 	
 	14–4      Carga del devanado secundario
 	
