@@ -141,7 +141,7 @@ Determinar y localizar fallas en un tipo de fuente de potencia de cd que utiliza
 
 	14–1      Inductancia mutua 
 	
-	¿Cuál es la inductancia mutua cuando k=0.75, L1=1 µH, y L2= 4 µH?
+**1. ¿Cuál es la inductancia mutua cuando k=0.75, L1=1 µH, y L2= 4 µH?**
 
 Como sabemos son 3 los factores que intervienen en la inductancia mutua, siendo su fórmula:
 
@@ -159,7 +159,7 @@ L_M=1.5 µH
 	
 	14–2      El transformador básico
 	
-	¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?
+**3. ¿Cuál es la relación de vueltas de un transformador con 250 vueltas en el primario y 1000 en el secundario? ¿Cuál es la relación de vueltas cuando el devanado primario tiene 400 vueltas y el secundario 100?**
 
 Como sabemos la relación de vueltas (n) se define como la relación del número de vueltas que hay en el devanado secundario (Nsec) al número de vueltas presentes en el devanado primario (Npri):
 
@@ -169,7 +169,7 @@ n=N_sec/N_pri
 	
 	14–3      Transformadores elevadores y reductores 
 	
-	El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?
+**7. El devanado primario de un transformador tiene 120 V de ca a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 5?**
 
 Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:
 
@@ -179,7 +179,7 @@ Entonces reemplazamos: V_sec=5*120 V
 
 V_sec=600 V
 
-Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?
+**9. Para reducir 120 V a 30 V, ¿cuál debe ser la relación de vueltas?**
 
 V_sec=n*V_pri
 
@@ -189,9 +189,9 @@ n=(30 V)/(120 V)
 
 n=1/4=0.25 (4:1)
 
-¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
+**11. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 0.1 para obtener un voltaje secundario de 6 V de ca?
 
-Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:
+Recordemos que Nsec/Npri define la relación de vueltas, n. Por consiguiente, a partir de esta relación:**
 
 V_sec=n*V_pri
 
