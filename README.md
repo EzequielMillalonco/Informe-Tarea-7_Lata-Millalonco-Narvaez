@@ -145,17 +145,59 @@
 	
 	14–3      Transformadores elevadores y reductores 
 	
-	14–4      Carga del devanado secundario
+14–4      Carga del devanado secundario
 	
+![1](https://user-images.githubusercontent.com/93834732/153528731-90f6ac2c-ae37-42ce-b8df-9a7cd46f80be.GIF)
+
+![10](https://user-images.githubusercontent.com/93834732/153529733-09d6ca53-1792-460c-8617-3c7a6dcc9632.GIF)
+
 	14–5      Carga reflejada
 	
+![2](https://user-images.githubusercontent.com/93834732/153528775-8b426302-788c-45dc-8db1-c21f6d377198.GIF)
+
+![11](https://user-images.githubusercontent.com/93834732/153529798-c5657f23-342c-4394-80d0-02a4f09df6d5.GIF)
+
+![13](https://user-images.githubusercontent.com/93834732/153529848-9f722869-885e-494e-b6e1-2d683822d5ad.GIF)
+
 	14–6      Igualación de impedancia
 	
+![3](https://user-images.githubusercontent.com/93834732/153528812-952bc7eb-895d-4b8c-9ec8-be4f7b793831.GIF)
+
+![12](https://user-images.githubusercontent.com/93834732/153533286-7801bfed-3f7f-4bba-9c19-690afa282a66.GIF)
+
 	14–7      Características de un transformador no ideal (transformador real)
+
+**21. En cierto transformador, la potencia de entrada al primario es de 100 W, Si se pierden 5.5 W en las resistencias de devanado, ¿cuál es la potencia de salida hacia 	la carga, omitiendo cualesquiera otras pérdidas
 	
+![15](https://user-images.githubusercontent.com/93834732/153533698-92b5ef8c-a18b-4b4b-b074-03e2276b0219.GIF)
+
+23. Determine el coeficiente de acoplamiento de un transformador en el cual un 2% del flujo total generado en el primario no pasa a través del secundario.**
+	
+![16](https://user-images.githubusercontent.com/93834732/153533844-2449ac00-cc13-4a21-ab00-36d96530d0a2.GIF)
+
+	Podemos concluir que el coeficiente es de 0.98
+	
+	25. ¿Qué potencia nominal en kVA se requiere para un transformador que debe manejar una corriente máxima de 10 A a través de la carga con un voltaje secundario de 2.5 		kV?
+	
+![17](https://user-images.githubusercontent.com/93834732/153534030-e08ab4b3-106f-45cf-8d8d-039ef15db275.GIF)
+
 	14–8      Transformadores con tomas y devanados múltiples
 	
+![4](https://user-images.githubusercontent.com/93834732/153528968-8c5155c2-1f3a-4345-ba6e-e0db594c65ab.GIF)
+
+![18](https://user-images.githubusercontent.com/93834732/153534311-c50cdaa4-ce9e-4a3f-9b10-0ebc65db56f4.GIF)
+
+![5](https://user-images.githubusercontent.com/93834732/153529009-7c8a12a9-88a5-4c41-832e-46a91c1c6d3a.GIF)
+
+![19](https://user-images.githubusercontent.com/93834732/153534698-f7d74e04-5510-45c3-bf45-cf164611b886.GIF)
+
+![6](https://user-images.githubusercontent.com/93834732/153529082-b5996331-2fa5-4980-95f0-c061b9b78db3.GIF)
+
 	14–9      Localización de fallas
+	
+33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?
+
+En el caso de que esto sucediera el transformador seria de utilidad puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema.
 
 
 ## 4.	VIDEO
