@@ -260,10 +260,10 @@ En el caso de que esto sucediera el transformador no seria de utilidad puesto a 
 	
 	Link del video ¨Informe tarea 7¨, en dondé se explican ejercicios vistos en los cápitulos 13 y 14 del libro de ¨5 Principios de circuitos eléctricos¨
 	
-https://youtu.be/2iV6VzArCmY
+https://youtu.be/eB3abYLob6k
 	
 	
-[![Presentación Tarea 1](https://img.youtube.com/vi/2iV6VzArCmY/0.jpg)](https://www.youtube.com/watch?v=2iV6VzArCmY)
+[![Presentación Tarea 1](https://img.youtube.com/vi/eB3abYLob6k/0.jpg)](https://www.youtube.com/watch?v=eB3abYLob6k)
 	
 ## 5.	CONCLUSIONES
         
