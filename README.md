@@ -132,11 +132,7 @@ Determinar y localizar fallas en un tipo de fuente de potencia de cd que utiliza
 
 ![image](https://user-images.githubusercontent.com/93396250/153551060-b2650bb9-3b19-4a27-8188-cf1c1c04aaac.png)
 
-	13–5      Inductores en circuitos de CA 	
 
-
-	
-	
 ### CAPÍTULO 14: TRANSFORMADORES
 
 	14–1      Inductancia mutua 
