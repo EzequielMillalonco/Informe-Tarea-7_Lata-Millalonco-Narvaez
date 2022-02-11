@@ -81,7 +81,7 @@
 	
 	13–3      Inductores en serie y en paralelo 
 
-**11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total? **
+**11. Se conectan cinco inductores en serie. El valor más bajo es de 5 μH. Si el valor de cada inductor es el doble del valor precedente, y si los inductores se conectan en orden de valores ascendentes, ¿cuál es la inductancia total?**
 
 ![image](https://user-images.githubusercontent.com/93396250/153550723-079329c0-cb5f-4322-a488-efb2b9cbf795.png)
 
@@ -103,7 +103,7 @@
 
 	13–4      Inductores en circuitos de CD 
 
-** 19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
+**19. Determine la constante de tiempo para cada una de las siguientes combinaciones RL dispuestas en serie:**
 
 ![image](https://user-images.githubusercontent.com/93396250/153550837-e8dd335f-0069-4def-9877-5469c9545d13.png)
 
@@ -197,7 +197,7 @@ Podemos concluir que el coeficiente es de 0.98
 	
 **33. ¿Qué es probable que suceda si el devanado primario de un transformador se pone en cortocircuito?**
 
-En el caso de que esto sucediera el transformador seria de utilidad puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema.
+En el caso de que esto sucediera el transformador no seria de utilidad puesto a que no existiría conexión entre ambos terminales, el primario y el secundario por lo que la energía no se transformaría en dicho sistema.
 
 
 ## 4.	VIDEO
